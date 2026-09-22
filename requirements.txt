@@ -1,0 +1,6 @@
+SpeechRecognition
+PyAudio
+scikit-learn
+pywin32
+groq
+tavily-python
